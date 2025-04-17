@@ -10,11 +10,11 @@ From supervised learning and clustering to recommendation systems and business f
 
 | Project Name | ML Concept | Description |
 |--------------|------------|-------------|
-| `AdEase_Assignment.ipynb` |Time series forecasting | Predicting ad click-through using regression |
+| `AdEase_Assignment.ipynb` |Time series forecasting |  ad click-through |
 | `Clustering.ipynb` | KMeans Clustering | Customer segmentation and group analysis |
 | `Jamboree_Case_Study.ipynb` | Linear Regression | Modeling GRE/TOEFL score impact on admissions |
 | `Main_LoanTap_Logistic_Regression.ipynb` | Classification | Credit scoring using logistic regression |
-| `OLA_Case_Study.ipynb` | Time Series / Demand Prediction | Ride-hailing demand forecasting |
+| `OLA_Case_Study.ipynb` | Ensemble | Ride-hailing demand forecasting |
 | `Recommendation_system_Assignment.ipynb` | Recommendation Engines | Collaborative filtering + content-based recs |
 | `Dehlivery_Assignment_Main.ipynb` | Decision Trees / Ensemble | Delivery time prediction for logistics |
 | `Clustering.ipynb` | Clustering | Market segmentation for edtech use case |
